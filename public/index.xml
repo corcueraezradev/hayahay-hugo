@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hayahay | Blog</title>
-    <link>http://localhost:1313/</link>
+    <link>//:5000/</link>
     <description>Recent content on Hayahay | Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 30 Sep 2025 21:14:09 +1000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//:5000/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unang Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>//:5000/posts/my-first-post/</link>
       <pubDate>Tue, 30 Sep 2025 21:14:09 +1000</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>//:5000/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;introduction-ko&#34;&gt;Introduction ko&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&#xA;More stuff down here&lt;/p&gt;</description>
     </item>
   </channel>
