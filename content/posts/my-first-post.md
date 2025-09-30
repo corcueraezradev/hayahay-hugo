@@ -1,6 +1,6 @@
 +++
 date = '2025-09-30T21:14:09+10:00'
-draft = true
+draft = false
 title = 'Unang Post'
 +++
 ## Introduction ko
