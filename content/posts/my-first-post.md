@@ -1,9 +1,9 @@
 +++
 date = '2025-09-30T21:14:09+10:00'
 draft = true
-title = 'My First Post'
+title = 'Unang Post'
 +++
-## Introduction
+## Introduction ko
 
 This is **bold** text, and this is *emphasized* text.
 
